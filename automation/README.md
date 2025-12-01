@@ -4,15 +4,15 @@ This directory contains the Python script (`parseSnpEffOutput.py`) used for data
 ### 1. Dependancies
 #### Python
 <pre>
-  pip install pandas
+pip install pandas
 </pre>
 #### R
 <pre>
-  if (!require("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
-  BiocManager::install("ComplexHeatmap")
-  
-  install.packages('ggplot2')
+if (!require("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+BiocManager::install("ComplexHeatmap")
+
+install.packages('ggplot2')
 </pre>
 
 ### 2. Run this script
