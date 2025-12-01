@@ -1,2 +1,2 @@
 # snpEff-Representation
-This repository contains the codes for snpEff data representation
+This repository contains a Jupyter Notebook written for the SnpEff data parsing and visualization.
