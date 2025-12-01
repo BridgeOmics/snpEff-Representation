@@ -1,5 +1,5 @@
 # snpEff-Representation
-This repository contains a Jupyter Notebook written for the SnpEff data parsing and visualization.
+This repository contains a Jupyter Notebook written for the snpEff data parsing and visualization.
 
 ### Dependancies:
 <pre>
