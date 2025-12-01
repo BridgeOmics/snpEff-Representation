@@ -3,8 +3,8 @@ This repository contains a Jupyter Notebook written for the SnpEff data parsing 
 
 ### Dependancies:
 <pre>
-    pip install pandas
-    pip install numpy
-    pip install matplotlib
-    pip install seaborn
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
 </pre>
